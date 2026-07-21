@@ -1,4 +1,4 @@
-# Analytics Test Tasks
+# Analytics Tasks
 
 Примеры моих задач по SQL, Python, A/B-тестам, продуктовой аналитике, Excel и планированию отчётов в Power BI.
 
