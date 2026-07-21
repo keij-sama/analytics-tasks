@@ -43,7 +43,3 @@ pip install -r requirements.txt
 ```
 
 Команды запуска приведены в README каждого проекта.
-<<<<<<< HEAD
-
-=======
->>>>>>> 6264744 (Update test tasks)
