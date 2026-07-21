@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.env
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS and editors
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# Office temporary files
+~$*.xlsx
+~$*.docx
+~$*.pptx
+
+# Local outputs
+outputs/generated/
+*.log
+
+# Installers and archives
+*.exe
+*.7z
+*.zip

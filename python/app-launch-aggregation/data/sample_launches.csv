@@ -1,0 +1,7 @@
+user_id,session_id,platform,source,region
+1,s1,Android,organic,Москва
+1,s2,Android,messenger,Москва
+2,s3,iOS,organic,Алматы
+3,s4,Android,messenger,Алматы
+3,s5,Android,messenger,Алматы
+4,s6,iOS,ads,Бишкек
