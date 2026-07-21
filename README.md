@@ -18,7 +18,6 @@
 ### A/B-тесты
 
 - [`ab-testing/email-campaign`](ab-testing/email-campaign) — z-тест двух долей и доверительный интервал для конверсии email-рассылки.
-- [`ab-testing/device-stratification`](ab-testing/device-stratification) — анализ перекоса трафика по устройствам и демонстрация эффекта смешения сегментов.
 
 ### Продуктовая аналитика и визуализация
 
